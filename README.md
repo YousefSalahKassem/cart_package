@@ -1,6 +1,6 @@
-# kortobaa Cart Package
+# Cart System Package
 
-### Welcome to the kortobaa cart package this package depend on:
+### Welcome to the cart system package this package depend on:
 
 1: Hive Local Storage<br />
 2: Riverpod State Management
