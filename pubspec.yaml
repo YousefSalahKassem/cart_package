@@ -1,7 +1,6 @@
-name: kortobaa_cart_package
+name: cart_package
 description: cart system
 version: 0.0.1
-homepage:
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
@@ -14,7 +13,7 @@ dependencies:
   # Local Storage
   hive: ^2.2.3
   hive_flutter: ^1.1.0
-
+  hive_test: ^1.0.1
   # State Management
   flutter_riverpod: ^1.0.4
 
